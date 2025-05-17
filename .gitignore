@@ -1,2 +1,6 @@
 .env
 mcp/
+.*
+*.lock
+*.json
+*.toml
